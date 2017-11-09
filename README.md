@@ -1,8 +1,12 @@
-# Dataset de Alimentos
-## Extrayendo la Composición de los Alimentos
-Repositorio con la información para la realización de nuestro proyecto de web scraping correspondiente a la práctica 1 de la asignatura Tipología y ciclo de vida de los datos
+# Dataset de Alimentos - Extrayendo su Composición
+**Gregorio de Miguel Vadillo** 
 
-Miembros del equipo de trabajo:
-Gregorio de Miguel Vadillo
-Carlos Muñiz Solaz
+**Carlos Muñiz Solaz**
+
+**Fecha de creación:** Octubre 2017
+
+
+Repositorio generado durante la PEC 1 de la asignatura *Tipología y ciclo de vida de los datos* del *Máster de Ciencia de Datos* de la *UOC*. En esta práctica hemos realizado *Web Scraping* sobre la **Base de Datos Española de Composición de Alimentos (BEDCA)** para generar diversos datasets que podremos explotar en prácticas posteriores.
+
+
 
