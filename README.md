@@ -1,6 +1,5 @@
 # Dataset de Alimentos
 ## Extrayendo la Composición de los Alimentos
- *  *  *  *  *
 Repositorio con la información para la realización de nuestro proyecto de web scraping correspondiente a la práctica 1 de la asignatura Tipología y ciclo de vida de los datos
 
 Miembros del equipo de trabajo:
