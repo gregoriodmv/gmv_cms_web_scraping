@@ -5,6 +5,8 @@
 
 **Fecha de creación:** Octubre 2017
 
+![GitHub Logo](/images/logo/logo.png)
+
 
 Repositorio generado durante la PEC 1 de la asignatura *Tipología y ciclo de vida de los datos* del *Máster de Ciencia de Datos* de la *UOC*. En esta práctica hemos realizado *Web Scraping* sobre la **Base de Datos Española de Composición de Alimentos (BEDCA)** para generar diversos datasets que podremos explotar en prácticas posteriores.
 
