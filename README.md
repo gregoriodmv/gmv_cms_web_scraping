@@ -62,6 +62,8 @@ Las aplicaciones de las *Base de Datos de Composición de Alimentos* es muy ampl
 * Para educar a la población sobre los alimentos y sus nutrientes
 * Para elaborar las etiquetas de los productos procesados
 
+# Estructura del repositorio
+
 # Licencia
 
 El Dataset de Composición de Alimentos de Gregorio de Miguel Vadillo y Carlos Muñiz Solaz se encuentra bajo la licencia **CC-BY-SA 4.0**.
@@ -74,16 +76,14 @@ https://creativecommons.org/licenses/
 
 ![Alt text](/images/copyright/by-sa.png?raw=true)
 
-
-# Estructura del repositorio
-
-# Agradecimiento
+# Agradecimientos
 
 Nos gustaria agredecer a la RedBEDCA por la elaboración de la base de datos con la composición de alimentos y la página web que nos ha permitido generar nuestro dataset.
 
+http://www.bedca.net/
 https://www.bedca.net/bdpub/UsoBD.pdf
 
-También agreder a las distintas fuentes que han permitido conocer la composición de los alimentos y que ha permitido su incorporación en la base de datos. Se puede encontrar más información sobre las distintas fuentes en el siguiente enlace:
+Agadecer también a las distintas fuentes que han permitido conocer la composición de los alimentos y que ha permitido su incorporación en la base de datos. Se puede encontrar más información sobre las distintas fuentes en el siguiente enlace:
 
 http://www.bedca.net/bdpub/index.php
 
