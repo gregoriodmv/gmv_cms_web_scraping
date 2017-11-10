@@ -27,7 +27,10 @@ http://www.fao.org/3/a-y4705s.pdf
 https://en.wikipedia.org/wiki/Food_composition_data
 
 # Contenido
-El data set que hemos generado contiene los siguientes campos:
+El data set que hemos generado contiene el siguiente fichero:
+alimentos.csv
+
+Cuyos campos son:
 
 * Nombre del alimento
 * Campos sobre carbohidratos: fibra o carbohidratos
@@ -73,6 +76,20 @@ https://creativecommons.org/licenses/
 
 
 # Estructura del repositorio
+
+# Agradecimiento
+
+Nos gustaria agredecer a la RedBEDCA por la elaboración de la base de datos con la composición de alimentos y la página web que nos ha permitido generar nuestro dataset.
+
+https://www.bedca.net/bdpub/UsoBD.pdf
+
+También agreder a las distintas fuentes que han permitido conocer la composición de los alimentos y que ha permitido su incorporación en la base de datos. Se puede encontrar más información sobre las distintas fuentes en el siguiente enlace:
+
+http://www.bedca.net/bdpub/index.php
+
+
+
+
 
 
 
