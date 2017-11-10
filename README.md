@@ -69,7 +69,7 @@ como se explica en:
 
 https://creativecommons.org/licenses/
 
-![Alt text](/images/copyright/?raw=true)
+![Alt text](/images/copyright/by-sa.png?raw=true)
 
 
 # Estructura del repositorio
