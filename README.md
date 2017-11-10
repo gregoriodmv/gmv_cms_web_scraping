@@ -61,11 +61,15 @@ Las aplicaciones de las *Base de Datos de Composición de Alimentos* es muy ampl
 
 # Licencia
 
+El Dataset de Composición de Alimentos de Gregorio de Miguel Vadillo y Carlos Muñiz Solaz se encuentra bajo la licencia CC-BY-SA 4.0.
 
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
+como se explica en:
 
+https://creativecommons.org/licenses/
 
-
+![Alt text](/images/copyright/?raw=true)
 
 
 # Estructura del repositorio
