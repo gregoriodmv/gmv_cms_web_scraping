@@ -7,7 +7,7 @@
 
 ![Alt text](/images/logo/Food-composition.jpg?raw=true)
 
-Repositorio generado durante la Práctica 1 de la asignatura *Tipología y ciclo de vida de los datos* del *Máster de Ciencia de Datos* de la *UOC*. En esta práctica hemos realizado *Web Scraping* sobre la **Base de Datos Española de Composición de Alimentos (BEDCA)** para generar diversos datasets que podremos explotar en prácticas posteriores.
+Repositorio generado durante la Práctica 1 de la asignatura *Tipología y ciclo de vida de los datos* del *Máster de Ciencia de Datos* de la *UOC*. En esta práctica hemos realizado *Web Scraping* sobre la **Base de Datos Española de Composición de Alimentos (BEDCA)** para generar un dataset sobre la composición de los alimentos. En el repositorio se puede encontrar el código desarrollado así como el dataset generado. 
 
 Página oficial de BEDCA: http://www.bedca.net/
 
@@ -37,19 +37,33 @@ El data set que hemos generado contiene los siguientes campos:
 * Campos proximales: alcohol, energía total, grasa total, proteina total y agua
 
 La mayoria de los campos son valores continuos que representan valores de masa (en g, mg o ug).
+
 Existen campos de energia expresados en kJ o kCal.
-Algunos micronutrientes cuyo porcentaje en el alimento es infimo contienen la etiqueta "traza" en lugar de un valor númerico.
+
+Algunos micronutrientes cuyo porcentaje en el alimento es infimo se representan mediante la etiqueta "traza" en lugar de un valor númerico.
 
 A la hora de analizar los datos hay que tener en cuenta que:
-* Existe una gran variabilidad de la composición de los alimentos entre paises
+* Existe una gran variabilidad de la composición de los alimentos entre los distintos paises
 * Existen muchos datos incompletos tanto de alimentos como de nutrientes al desconocerse su valor
 
 Por último, es importante tener en cuenta el periodo de tiempo de los datos. Debido a los recursos, mucho de los valores no están actualizados o son muy dificiles de obtener con exactitud. También hay que tener en cuenta que los métodos para obtener los componentes van variando a lo largo de los años, con lo que es posible que los datos del dataset se queden obsoletos.
 
+# Posibles Aplicaciones
+
+El uso de *Base de Datos de Composición de Alimentos* es muy extenso. Algunos ejemplos de posibles aplicaciones son:
+
+* Elaboración de *dietas terapeuticas*: para tratar la obesidad, diabetis, alergias e intolerancias a alimentos
+* Elaboración de *dietas institucionales*: colegios, hospitales, prisiones, centros de dias 
+* Elaboración de *dietas epidemiologicas*: estudiar el efecto de las dietas sobre la población. Por ejemplo, para perder peso, ganar musculo, ...
+* Realización de estudios cuantitativos sobre la nutrición humana
+* Para transmitir y educar en el conocimiento nutricional a la población
+* Para elaborar las etiquetas de los productos procesados
 
 
 
-Estructura del repositorio
+
+
+# Estructura del repositorio
 
 
 
