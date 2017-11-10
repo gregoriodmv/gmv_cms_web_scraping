@@ -48,16 +48,21 @@ A la hora de analizar los datos hay que tener en cuenta que:
 
 Por último, es importante tener en cuenta el periodo de tiempo de los datos. Debido a los recursos, mucho de los valores no están actualizados o son muy dificiles de obtener con exactitud. También hay que tener en cuenta que los métodos para obtener los componentes van variando a lo largo de los años, con lo que es posible que los datos del dataset se queden obsoletos.
 
-# Posibles Aplicaciones
+# Posibles usos del Dataset
 
-El uso de *Base de Datos de Composición de Alimentos* es muy extenso. Algunos ejemplos de posibles aplicaciones son:
+Las aplicaciones de las *Base de Datos de Composición de Alimentos* es muy amplio. Algunos ejemplos para los que se usan estas bases de datos son la:
 
 * Elaboración de *dietas terapeuticas*: para tratar la obesidad, diabetis, alergias e intolerancias a alimentos
-* Elaboración de *dietas institucionales*: colegios, hospitales, prisiones, centros de dias 
+* Elaboración de *dietas institucionales*: colegios, hospitales, prisiones, centros de dia
 * Elaboración de *dietas epidemiologicas*: estudiar el efecto de las dietas sobre la población. Por ejemplo, para perder peso, ganar musculo, ...
 * Realización de estudios cuantitativos sobre la nutrición humana
-* Para transmitir y educar en el conocimiento nutricional a la población
+* Para educar a la población sobre los alimentos y sus nutrientes
 * Para elaborar las etiquetas de los productos procesados
+
+# Licencia
+
+
+
 
 
 
