@@ -81,7 +81,7 @@ Nos gustaría agradecer a la RedBEDCA por la elaboración de la base de datos co
 
 http://www.bedca.net/
 
-Agradecer también a las distintas fuentes que han permitido conocer la composición de los alimentos y que ha permitido su incorporación en la base de datos. Se puede encontrar más información sobre las distintas fuentes en el siguiente enlace:
+Agradecer también a las distintas fuentes que han permitido conocer la composición de los alimentos y que han posibilitado su incorporación en la base de datos. Se puede encontrar más información sobre las distintas fuentes en el siguiente enlace:
 
 http://www.bedca.net/bdpub/index.php
 
