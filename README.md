@@ -17,7 +17,7 @@ Para más información sobre las *Bases de Datos de Composición de Alimentos* v
 http://www.fao.org/3/a-y4705s.pdf  
 https://en.wikipedia.org/wiki/Food_composition_data
 
-# Recolección de los datos
+# Recogida de los datos
 Antes de la aparición de los ordenadores, la información sobre los componentes de los alimentos se recogían en tablas impresas. Hoy en día, estos datos provienen de distintas fuentes y países y una vez consolidados se ponen a disposición pública a través de base de datos o páginas web.
 
 Entre los métodos utilizados para obtener los datos encontramos:
@@ -85,7 +85,7 @@ https://creativecommons.org/licenses/
 
 # Agradecimientos
 
-Nos gustaría agradecer a la RedBEDCA por la elaboración de la base de datos con la composición de alimentos y la página web que nos ha permitido generar nuestro dataset.
+Nos gustaría agradecer a la RedBEDCA por la elaboración de la base de datos con la composición de alimentos y la página web que nos ha permitido generar nuestro dataset.  
 http://www.bedca.net/
 
 Agradecer también a las distintas fuentes que han permitido conocer la composición de los alimentos y que han posibilitado su incorporación en la base de datos. Se puede encontrar más información sobre las distintas fuentes en el siguiente enlace:
