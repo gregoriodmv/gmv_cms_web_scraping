@@ -75,7 +75,7 @@ Para más información técnica sobre la práctica se puede visitar la wiki:
 
 
 # Licencia
-El dataset de Composición de Alimentos de Gregorio de Miguel Vadillo y Carlos Muñiz Solaz se encuentra bajo la licencia **CC-BY-SA 4.0**.
+El dataset de Composición de Alimentos de Gregorio de Miguel Vadillo y Carlos Muñiz Solaz se encuentra bajo la licencia **CC-BY-SA 4.0**.  
 https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 como se explica en:
@@ -86,11 +86,9 @@ https://creativecommons.org/licenses/
 # Agradecimientos
 
 Nos gustaría agradecer a la RedBEDCA por la elaboración de la base de datos con la composición de alimentos y la página web que nos ha permitido generar nuestro dataset.
-
 http://www.bedca.net/
 
 Agradecer también a las distintas fuentes que han permitido conocer la composición de los alimentos y que han posibilitado su incorporación en la base de datos. Se puede encontrar más información sobre las distintas fuentes en el siguiente enlace:
-
 http://www.bedca.net/bdpub/index.php
 
 
