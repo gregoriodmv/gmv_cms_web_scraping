@@ -62,8 +62,8 @@ Para la realización de la práctica hemos utilizado las siguientes herramientas
 * Python requests library: Permite la descargas de páginas web
 * Selenium: Permite por una parte interactuar con páginas web. Por ejemplo, hacer click sobre un botón de la página u obtener un determinado elemento de la página. Por otro lado, Selenium proporciona de herramientas para parsear el contenido obtenido de las páginas web y generar el csv con nuestro dataset. 
 
-[My Awesome Wiki](../../wiki)
-
+Para más información técnica sobre la práctica se puede visitar la wiki:  
+[Wiki](../../wiki)
 
 
 # Licencia
