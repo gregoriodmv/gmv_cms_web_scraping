@@ -58,6 +58,14 @@ Las aplicaciones de las *Base de Datos de Composición de Alimentos* es muy ampl
 * Para elaborar las etiquetas de los productos procesados
 
 # Estructura del repositorio
+La estructura del repositorio es la siguiente:
+* *src*: Directorio que contiene el código fuente en python para la creación del dataset
+* *dataset*: Directorio con el fichero csv con el dataset creado
+* *images*: Directorio con las imagenes que se visualizan en el fichero README.md
+* *HEADER* y *CC-BY-SA-4.0*: Ficheros de licencia
+* *README.md*: Este fichero
+
+# Programas usados para la creación del repositorio
 Para la realización de la práctica hemos utilizado las siguientes herramientas:
 * Python requests library: Permite la descargas de páginas web
 * Selenium: Permite por una parte interactuar con páginas web. Por ejemplo, hacer click sobre un botón de la página u obtener un determinado elemento de la página. Por otro lado, Selenium proporciona de herramientas para parsear el contenido obtenido de las páginas web y generar el csv con nuestro dataset. 
