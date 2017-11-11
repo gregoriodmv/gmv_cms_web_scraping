@@ -1,6 +1,5 @@
 # Dataset de Composición de Alimentos
-**Gregorio de Miguel Vadillo** 
-
+**Gregorio de Miguel Vadillo**   
 **Carlos Muñiz Solaz**
 
 **Fecha de creación:** Octubre 2017
