@@ -78,10 +78,11 @@ Para más información técnica sobre la práctica se puede visitar la wiki:
 El dataset de Composición de Alimentos de Gregorio de Miguel Vadillo y Carlos Muñiz Solaz se encuentra bajo la licencia **CC-BY-SA 4.0**.  
 https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
-como se explica en:
+como se explica en:  
 https://creativecommons.org/licenses/
-
 ![Alt text](/images/copyright/by-sa.png?raw=true)
+
+Se ha elegido está licencia ya que maximiza su difusión y permitir a otros remezclar, retocar, y crear a partir de ella. Se ha preferido elegir una licencia SA BY sobre una BY para que las obras que deriven de esta se licencien bajo las mismas condiciones.
 
 # Agradecimientos
 
