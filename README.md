@@ -26,9 +26,8 @@ Entre los métodos utilizados para obtener los datos encontramos:
 * Estimación de valores de otras fuentes. Esto puede ser de la etiquetas de los fabricantes, documentación científica o bases de datos de otros países
 
 # Contenido
-El dataset que hemos generado contiene el siguiente fichero:
-alimentos.csv
-Los campos que encontramos en el dataset son los siguientes:
+El dataset inicial que hemos generado lo hemos guardado en el fichero: *alimentos_raw.csv*. Posteriormente, hemos generado otro dataset más procesado al que hemos llamado *alimentos_procesado.csv*.  
+Los campos que encontramos en los datasets generados son los siguientes:
 
 * Nombre del alimento
 * Campos sobre carbohidratos: fibra o carbohidratos
@@ -59,16 +58,18 @@ Las aplicaciones de las *Base de Datos de Composición de Alimentos* es muy ampl
 
 # Estructura del repositorio
 La estructura del repositorio es la siguiente:
-* *src*: Directorio que contiene el código fuente en python para la creación del dataset
-* *dataset*: Directorio con el fichero csv con el dataset creado
-* *images*: Directorio con las imagenes que se visualizan en el fichero README.md
+* *src*: Directorio que contiene el código fuente en python para la creación del dataset inicial y el script en R para el procesamiento posterior
+* *dataset*: Directorio con dos ficheros csv. El dataset creado mediante web scraping (*alimentos_raw.csv*) y el dataset ya procesado (*alimentos_procesado.csv*) mediante R. 
+* *images*: Directorio con todas las imagenes que se visualizan en el proyecto
 * *HEADER* y *CC-BY-SA-4.0*: Ficheros de licencia
 * *README.md*: Este fichero
 
 # Programas usados para la creación del repositorio
 Para la realización de la práctica hemos utilizado las siguientes herramientas:
-* Python requests library: Permite la descargas de páginas web
-* Selenium: Permite por una parte interactuar con páginas web. Por ejemplo, hacer click sobre un botón de la página u obtener un determinado elemento de la página. Por otro lado, Selenium proporciona de herramientas para parsear el contenido obtenido de las páginas web y generar el csv con nuestro dataset. 
+* *Python requests library*: Permite la descargas de páginas web
+* *Selenium*: Permite interactuar con las páginas webs. Por ejemplo, hacer click sobre un botón determinado de la página web
+* *lxml*: Poporciona de herramientas para procesar el contenido obtenido de las páginas web 
+* *Rstudio*: Es la herramienta que nos ha permitido realizar un procesamiento más avanzando del dataset
 
 Para más información técnica sobre la práctica se puede visitar la wiki:  
 [Wiki](../../wiki)
@@ -79,7 +80,7 @@ El dataset de Composición de Alimentos de Gregorio de Miguel Vadillo y Carlos M
 https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 como se explica en:  
-https://creativecommons.org/licenses/
+https://creativecommons.org/licenses/  
 ![Alt text](/images/copyright/by-sa.png?raw=true)
 
 Se ha elegido está licencia ya que maximiza su difusión y permitir a otros remezclar, retocar, y crear a partir de ella. Se ha preferido elegir una licencia SA BY sobre una BY para que las obras que deriven de esta se licencien bajo las mismas condiciones.
