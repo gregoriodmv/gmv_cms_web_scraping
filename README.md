@@ -67,7 +67,7 @@ La estructura del repositorio es la siguiente:
 # Programas usados para la creación del repositorio
 Para la realización de la práctica hemos utilizado las siguientes herramientas:
 * *Python requests library*: Permite la descargas de páginas web
-* *Selenium*: Permite interactuar con las páginas webs. Por ejemplo, hacer click sobre un botón determinado de la página web
+* *Selenium*: Permite interactuar con las páginas web. Por ejemplo, hacer click sobre un botón determinado de la página web
 * *lxml*: Poporciona de herramientas para procesar el contenido obtenido de las páginas web 
 * *Rstudio*: Es la herramienta que nos ha permitido realizar un procesamiento más avanzando del dataset
 
