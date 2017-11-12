@@ -84,7 +84,7 @@ https://creativecommons.org/licenses/
 ![Alt text](/images/copyright/by-nc-sa.eu.png?raw=true)
 
 Se ha elegido está licencia ya que permite a otros distribuir, remezclar, retocar, y crear a partir de tu obra de modo no comercial, siempre y cuando te den crédito y licencien sus nuevas creaciones bajo las mismas condiciones.
-Esto se debe a la licencia de la página de BEDCA que no permite utilizar los datos para fines comerciales como se detalla en el siguiente documento:
+Esto se debe a la licencia de la página de BEDCA que no permite utilizar los datos para fines comerciales como se detalla en el siguiente documento:  
 [Uso de la Base de Datos](UsoBD.pdf)
 
 # Agradecimientos
