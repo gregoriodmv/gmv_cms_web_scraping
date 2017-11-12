@@ -1,10 +1,17 @@
 """
-Clase que representa la informacion de un alimento
-Esta formado por un nombre y un diccionario que relaciona cada componente con su unidad y su valor
-de la siguiente forma { nombre : { "unidad": 'valor', "valor" : 'valor'}
+Clase Alimento
+
+Clase que representa un alimento. Cada alimento se modela con un nombre y un conjunto de componentes que representan sus
+caracteristicas nutricionales. De esta forma, la clase tiene los siguientes 2 atributos:
+* nombre: Especifica el nombre del alimento. Por ejemplo, "Aceite de oliva"
+
+* componentes: Una lista donde cada elemento es un diccionario con la informacion de cada componente del alimento con el
+siguiente formato:
+{ "nombre" : 'nombre_componente' , "unidad": 'valor_unidad', "valor" : 'valor'}
+
+Por ejemplo:
+{nombre : "carbohidratos", unidad : "g", valor: 50 }
 """
-# TODO La unidad es siempre la misma para cada componente, lo que varia entre un alimento y otro es el valor de
-# ese atributo
 
 class Alimento(object):
 
@@ -13,9 +20,17 @@ class Alimento(object):
         self.componentes = componentes
 
     def get_atributos(self):
+        """
+        Rutina que devuelve una lista con los nombres de los componentes
+        :return:    Lista con los valores de sus componentes
+        """
         return [atributo["nombre"] for atributo in self.componentes]
 
     def get_valores(self):
+        """
+        Rutina que devuelve una lista con los valores de los componentes
+        :return:    Lista con los valores de sus componentes
+        """
         return [atributo["valor"] for atributo in self.componentes]
 
     def get_valor(self, nombre_atributo):
