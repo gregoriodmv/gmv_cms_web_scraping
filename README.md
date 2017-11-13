@@ -27,7 +27,9 @@ Entre los métodos utilizados para obtener los datos encontramos:
 
 # Contenido
 El dataset inicial que hemos generado lo hemos guardado en el fichero: *alimentos_raw.csv*. Posteriormente, hemos generado otro dataset más procesado al que hemos llamado *alimentos_procesado.csv*.  
+
 El número de registros que hemos conseguido extraer son 949 y el número de campos son 41 en el caso de alimentos_raw.csv y de 42 en el caso de alimentos_procesado.csv, ya que incluye una columna con el índice. 
+
 Los campos que encontramos en los datasets generados son los siguientes:
 
 * Nombre del alimento
