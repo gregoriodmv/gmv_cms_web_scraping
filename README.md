@@ -44,7 +44,7 @@ A la hora de analizar los datos hay que tener en cuenta que:
 * Existe una gran variabilidad de la composición de los alimentos entre los distintos países
 * Existen muchos datos incompletos tanto de alimentos como de nutrientes al desconocerse su valor
 
-Por último, es importante tener en cuenta el *periodo de tiempo de los datos*. Debido a limitaciones en los recursos, mucho de los valores no están actualizados o son muy difíciles de obtener con exactitud. También hay que tener en cuenta que los métodos para obtener los componentes van variando a lo largo de los años, con lo que es posible que el dataset que hemos generado se quede obsoleto a lo largo de los años.
+Por último, es importante tener en cuenta el *periodo de tiempo de los datos*. Debido a limitaciones en los recursos, mucho de los valores no están actualizados o son muy difíciles de obtener con exactitud. También hay que tener en cuenta que los métodos para obtener los componentes van variando a lo largo de los años, con lo que es posible que el dataset que hemos generado se quede obsoleto a lo largo de los años. Por ello, y para asegurar la validez de los datos, habría que repetir el proceso de web scraping de forma periódica o incluso modificar el proceso si la forma de disponer la información variara.
 
 # Posibles usos del Dataset
 Las aplicaciones de las *Base de Datos de Composición de Alimentos* es muy amplio. Algunos ejemplos para los que se usan estas bases de datos son la:
