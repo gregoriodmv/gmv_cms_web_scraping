@@ -2,7 +2,7 @@
 **Gregorio de Miguel Vadillo**   
 **Carlos Muñiz Solaz**
 
-**Fecha de creación:** Octubre 2017
+**Fecha de creación:** Octubre - Noviembre 2017
 
 ![Alt text](/images/logo/Food-composition.jpg?raw=true)
 
