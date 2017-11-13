@@ -48,6 +48,7 @@ Por último, es importante tener en cuenta el *periodo de tiempo de los datos*. 
 
 # Posibles usos del Dataset
 Los alimentos que ingerimos afectan de manera asombrosa sobre la salud de las personas. Pero no solo a nivel físico, sino también a nivel psicológico. Se dice que hay alimentos “que curan”. Se sabe que hay alimentos que mejoran el estado de ánimo. Otros mejoran la concentración. Otros mejoran el rendimiento deportivo, así como otros consiguen todo lo contrario. Se habla también de superalimentos. Existen testimonios de personas cuya vida ha cambiado simplemente realizando un cambio en su alimentación. Por lo tanto, para que un individuo pueda desempeñar sus funciones correctamente, es fundamental que su alimentación sea la correcta, y eso pasa por tener conocimiento de la composición de los alimentos que forman esa alimentación. Estos y otros motivos hacen que el conjunto de datos propuesto sea de interés máximo.  
+
 Las aplicaciones de las *Base de Datos de Composición de Alimentos* es muy amplio. Algunos ejemplos para los que se usan estas bases de datos son la:
 
 * Elaboración de *dietas terapéuticas*: para tratar la obesidad, diabetis, alergias e intolerancias a alimentos
